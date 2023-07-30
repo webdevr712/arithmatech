@@ -31,6 +31,11 @@ web/sites/simpletest
 # Ignore contrib folder
 modules/contrib
 
+# php twig files
+web/sites/default/files/php/twig/*.htaccess
+web/sites/default/files/php/twig/
+web/sites/default/files/php/twig/*
+
 # If you prefer to store your .gitignore file in the sites/ folder, comment
 # or delete the previous settings and uncomment the following ones, instead.
 
