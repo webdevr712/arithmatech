@@ -18,8 +18,8 @@
 vendor/
 
 # Ignore configuration files that may contain sensitive information.
-web/sites/*/settings*.php
-web/sites/*/services*.yml
+sites/*/settings*.php
+sites/*/services*.yml
 
 # Ignore paths that contain user-generated content.
 web/sites/*/files
@@ -32,10 +32,11 @@ web/sites/simpletest
 modules/contrib
 
 # php twig files
-web/sites/default/files/php/twig/*.htaccess
-web/sites/default/files/php/twig/
-web/sites/default/files/php/twig/*
+sites/default/files/php/twig/*.htaccess
+sites/default/files/php/twig/
+sites/default/files/php/twig/*
 sites/default/files/php/
+sites/default/files/js/
 
 # If you prefer to store your .gitignore file in the sites/ folder, comment
 # or delete the previous settings and uncomment the following ones, instead.
