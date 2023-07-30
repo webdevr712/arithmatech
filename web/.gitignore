@@ -35,6 +35,7 @@ modules/contrib
 web/sites/default/files/php/twig/*.htaccess
 web/sites/default/files/php/twig/
 web/sites/default/files/php/twig/*
+sites/default/files/php/
 
 # If you prefer to store your .gitignore file in the sites/ folder, comment
 # or delete the previous settings and uncomment the following ones, instead.
